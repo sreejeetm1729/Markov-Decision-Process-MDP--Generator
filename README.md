@@ -1,1 +1,1 @@
-# User-Defined-Markov-Decision-Process-generator
+# Markov-Decision-Process-generator
